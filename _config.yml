@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Kyunam93"
+title                    : "Kyunam"
 title_separator          : "|"
 subtitle                 : "slow but steady"
-name                     : "Kyunam93"
-description              : "Kyunam93의 블로그 입니다"
-url                      : "https://kyunam93.github.io"
+name                     : "Kyunam"
+description              : "Kyunam의 블로그 입니다"
+url                      : "https://kyunam.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -32,7 +32,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname            : "kyunam93"
+    shortname            : "kyunam"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "kyunam93"
+  name             : "kyunam"
   avatar           : "https://avatars.githubusercontent.com/u/20273974?v=4"
-  bio              : "kyunam93의 블로그 입니다."
+  bio              : "kyunam의 블로그 입니다."
   location         : "Republic of Korea"
   email            : #
   links:
